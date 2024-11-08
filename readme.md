@@ -1,8 +1,5 @@
 # Aplicación Web de Factorial con Flask
 
-- Python 3.8 o superior
-- pip (para instalar las dependencias)
-
 ## Instalación y ejecución
 
 1. Clonar este repositorio o descarga los archivos:
@@ -26,7 +23,7 @@
 
 ## Uso
 
-Abrir el navegador y accededer a http://localhost:5000/factorial/<numero>, reemplazando <numero> con un número entero positivo cuyo factorial se desee calcular.
+Abrir el navegador y accededer a `http://localhost:5000/factorial/<numero>`, reemplazando `<numero>` con un número entero positivo cuyo factorial se desee calcular.
 
 ## Notas
 
